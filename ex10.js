@@ -8,4 +8,5 @@ numero = parseFloat(prompt("digite um numero"))
 // //do while
 // do{
 // numero = parseFloat(prompt('digite um numero:'))
+
 // }while(numero !=0)
